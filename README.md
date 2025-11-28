@@ -105,10 +105,7 @@ python main.py
 
 The script will:
 
-Download the dataset from Kaggle via kagglehub
-
-Run preprocessing and train all models
-
-Print metrics to the console
-
-Show basic plots (if a graphical backend is available)
+- Download the dataset from Kaggle via kagglehub
+- Run preprocessing and train all models
+- Print metrics to the console
+- Show basic plots (if a graphical backend is available)
